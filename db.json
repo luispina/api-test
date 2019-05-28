@@ -179,13 +179,13 @@
                 ],
                 "importaciones":[  
                     {  
-                        "agno":2015,
+                        "agno":2016,
                         "cod_com_alu":4102,
                         "cod_com_rbd":4101,
                         "cod_depe2":2,
                         "cod_nivel":10,
                         "cod_oferta":4,
-                        "flow":256,
+                        "flow":44,
                         "gen_alu":2,
                         "lat_com_alu":-29.95400361,
                         "lat_com_rbd":-29.90222051,
