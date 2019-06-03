@@ -32,33 +32,6 @@
                         "cod_oferta": 4,
                         "nom_oferta": "Completa",
                         "flow": 253
-                    },
-                    {
-                        "agno": 2016,
-                        "gen_alu": 2,
-                        "nom_gen_alu": "Femenino",
-                        "cod_nivel": 9,
-                        "nom_nivel": "1º Medio",
-                        "nom_nivel_short": "I°M",
-                        "cod_com_alu": 4102,
-                        "cod_depe2": 3,
-                        "nom_depe2": "Particular Pagado",
-                        "cod_com_rbd": 4101,
-                        "cod_reg": 4,
-                        "nom_reg": "Coquimbo",
-                        "nom_com_alu": "Coquimbo",
-                        "lat_com_alu": -29.95400361,
-                        "lon_com_alu": -71.33813836,
-                        "cod_sle_alu": 8,
-                        "alias_sle_alu": "SLE08",
-                        "nom_com_rbd": "La Serena",
-                        "lat_com_rbd": -29.90222051,
-                        "lon_com_rbd": -71.25076624,
-                        "cod_sle_rbd": 9,
-                        "alias_sle_rbd": "SLE09",
-                        "cod_oferta": 4,
-                        "nom_oferta": "Completa",
-                        "flow": 35
                     }
                 ]
             }
@@ -69,33 +42,6 @@
             "year_data": "2015",
             "lines_ter": {
                 "desplazamientos":[  
-                    {
-                        "agno": 2015,
-                        "gen_alu": 1,
-                        "nom_gen_alu": "Masculino",
-                        "cod_nivel": 9,
-                        "nom_nivel": "1º Medio",
-                        "nom_nivel_short": "I°M",
-                        "cod_com_alu": 4102,
-                        "cod_depe2": 2,
-                        "nom_depe2": "Particular Subvencionado",
-                        "cod_com_rbd": 4101,
-                        "cod_reg": 4,
-                        "nom_reg": "Coquimbo",
-                        "nom_com_alu": "Coquimbo",
-                        "lat_com_alu": -29.95400361,
-                        "lon_com_alu": -71.33813836,
-                        "cod_sle_alu": 8,
-                        "alias_sle_alu": "SLE08",
-                        "nom_com_rbd": "La Serena",
-                        "lat_com_rbd": -29.90222051,
-                        "lon_com_rbd": -71.25076624,
-                        "cod_sle_rbd": 9,
-                        "alias_sle_rbd": "SLE09",
-                        "cod_oferta": 4,
-                        "nom_oferta": "Completa",
-                        "flow": 256
-                    },
                     {
                         "agno": 2015,
                         "gen_alu": 2,
