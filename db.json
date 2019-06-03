@@ -70,8 +70,9 @@
                         "flow": 42
                     }
                 ]
-            },
-            {
+            }
+        },
+        {
             "cod_ter": "SLE08",  
             "name_ter": "SLE Puerto Cordillera",
             "year_data": "2015",
