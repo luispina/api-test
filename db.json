@@ -104,7 +104,7 @@
                 ],
                 "importaciones":[  
                     {  
-                        "agno":2016,
+                        "agno":2015,
                         "cod_com_alu":4101,
                         "cod_com_rbd":4102,
                         "cod_depe2":2,
@@ -120,7 +120,7 @@
                         "nom_com_rbd":"Coquimbo"
                     },
                     {  
-                        "agno":2016,
+                        "agno":2015,
                         "cod_com_alu":4101,
                         "cod_com_rbd":4102,
                         "cod_depe2":2,
