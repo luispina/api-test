@@ -32,33 +32,6 @@
                         "cod_oferta": 4,
                         "nom_oferta": "Completa",
                         "flow": 253
-                    },
-                    {
-                        "agno": 2016,
-                        "gen_alu": 2,
-                        "nom_gen_alu": "Femenino",
-                        "cod_nivel": 12,
-                        "nom_nivel": "4º Medio",
-                        "nom_nivel_short": "IV°M",
-                        "cod_com_alu": 4303,
-                        "cod_depe2": 2,
-                        "nom_depe2": "Particular Subvencionado",
-                        "cod_com_rbd": 4301,
-                        "cod_reg": 4,
-                        "nom_reg": "Coquimbo",
-                        "nom_com_alu": "Monte Patria",
-                        "lat_com_alu": -30.69477785,
-                        "lon_com_alu": -70.9577639,
-                        "cod_sle_alu": 11,
-                        "alias_sle_alu": "SLE11",
-                        "nom_com_rbd": "Ovalle",
-                        "lat_com_rbd": -30.59693567,
-                        "lon_com_rbd": -71.19700132,
-                        "cod_sle_rbd": 11,
-                        "alias_sle_rbd": "SLE11",
-                        "cod_oferta": 4,
-                        "nom_oferta": "Completa",
-                        "flow": 20
                     }
                 ]
             }
