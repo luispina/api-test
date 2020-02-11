@@ -5,18 +5,6 @@
             "store_name": "Hi Líder San Pablo",
             "store_category": "Lider",
             "sales": "278.16"
-        },
-        {
-            "store_id": "676",  
-            "store_name": "Express Líder San Pablo",
-            "store_category": "Express",
-            "sales": "167.38"
-        },
-        {
-            "store_id": "76",  
-            "store_name": "Hi Líder Departamental",
-            "store_category": "Lider",
-            "sales": "340.21"
         }
     ]
 }
